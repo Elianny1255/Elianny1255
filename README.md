@@ -2,38 +2,27 @@
 
 # Bienvenido a mi Perfil de GitHub
 
-¡Hola! Soy un Desarrollador Full Stack Trainee que recientemente cambió de rubro, antes trabajaba en publicidad. Me considero un autodidacta apasionado por adquirir nuevas habilidades y utilizarlas para crear soluciones de software que la industria demanda en la actualidad.
+¡Hola! Soy ingeniero en Mantenimiento Mecanico con mas de 15 años de experiencia año de graduacion 2005.
+Recientemente realice el Bootcamp de Full STACK JAVA 480 horas.
 
-## Acerca de mí (About Me)
+Antes trabajaba en planificaicon de mantenimientos para la empresa Petroleos de Venezuela por 11 años desde el 2007 hasta el 2018 que inmigre a Chile. Aqui trabaje como ingeniero de proyecto para dos empresas como dibujante por 4 meses y para la expresa Yuval SPA por 4 años como adminisgtrativa de la sede en la ciudad de Cauquenes region del Maule.
 
-- 💼 Ex publicista, ahora desarrollador trainee.
-  Former publicist, now a trainee developer.
-- 🚀 Amante por la tecnología y la programación.
-  Passionate about technology and programming.
-- 👨‍💻 Siempre buscando aprender y crecer.
-  Always seeking to learn and grow.
+
+- 🚀 Siempre buscando aprender y crecer.
 - 🤝 Entusiasta de la colaboración y el trabajo en equipo.
-  Enthusiastic about collaboration and teamwork.
-- 📊 Experiencia en metodologías Scrum.
-  Experience with Scrum methodologies.
 - 🎯 Orientado a resultados y metas cumplidas.
-  Goal-oriented and results-driven.
 - 🧐 Curioso y siempre en busca de conocimiento.
-  Curious and eager to continually learn.
 
-## Mis Habilidades (My Skills)
 
-- 💻 Desarrollo web Full Stack.
-- Full Stack web development.
-- 🌐 Conocimientos en Java y Spring.
-  Knowledge in Java and Spring.
-- 🖥️ Experiencia en desarrollo de aplicaciones web.
-  Experience in web application development.
-- 📱 Diseño y desarrollo web, manejo de framework Vue.
-  Web design and development, management of Vue framework.
-- ⚙️ Resolución de problemas y desarrollo de soluciones.
-  Problem-solving and solution development.
+## Mis Habilidades.
+
+- 📊 Experiencia en manejo de excel y trablas dinamicas.
+- 🖥️ Buen manejo de AutoCAD.
+- 🖥️ Buen manejo de SAP. Modulos MM y PM.
+- ⚙  Certificacion de Asistente para recursos humanos por el sence 140 Horas.
+- ⚙  Certificacion de Igles basi coloral por el sence 120 Horas.
+- ⚙  Certificacion Excel basico, intermedio y avanzado por el sence 40 Horas.
 
 ## Contacto (Contact)
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/nelcarca).
+¡Mi correo: eliannyurdaneta1255@gmail.com. pagina;[LinkedIn](https://www.linkedin.com/in/elianny-urdaneta-ab645b2b7/)
